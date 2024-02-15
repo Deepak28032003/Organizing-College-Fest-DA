@@ -2,21 +2,20 @@
 ## Description:
 We use Data Analytics in everyday life without even knowing it.
 For eg : Going to a market to buy something .
-
-### Plan
+<li> ### Plan </li>
 We first decide which things I need before going to market . Is it a shirt , jeans , footwear etc.
-### Prepare
+<li> ### Prepare </li>
 Next I need to check how much I am willing to spend and how to get that money.
-### Process
+<li> ### Process </li>
 Then I need to check how much I want from the data. Like if I am going to buy footwear what do I want - slippers / shoes / sandals etc.
-### Analyze
+<li> ### Analyze </li>
 You obviously won't buy things which are out of trend, Also you need to check does the jeans which you have and the color of t-shirt you want to buy, will it make a good combination.
-### Share
+<li> ### Share </li>
 Now you communicate your idea to the shopkeeper to find the best suitable fit for you.
-### Act
+<li> ### Act </li>
 Then you finally buy it!
 
 <hr>
 
 ## Task:
-Your task is to give the example(s) of such a real-life situation where we use Data Analytics and link it with the data analytics process. You can prepare a PPT/PDF on a real-life scenario explaining it with the above process (Plan, Prepare, Process, Analyze, Share, Act) and submit it as part of this task
+The task of this porject is to give the example(s) of such a real-life situation where we use Data Analytics and link it with the data analytics process. Here I was needed to prepare a PPT/PDF on a real-life scenario explaining it with the above process (Plan, Prepare, Process, Analyze, Share, Act) and submit it as part of this task
