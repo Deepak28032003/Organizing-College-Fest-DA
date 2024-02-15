@@ -1,5 +1,5 @@
 # Organizing-College-Fest-DA
-<img src="https://du-assassins.in/wp-content/uploads/2018/12/Top-10-Colege-Fests-India.jpg" height=250px width=1100px>
+<img src="https://du-assassins.in/wp-content/uploads/2018/12/Top-10-Colege-Fests-India.jpg" width=1100px>
 
 ## Description:
 We use Data Analytics in everyday life without even knowing it.
