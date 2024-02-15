@@ -2,20 +2,14 @@
 ## Description:
 We use Data Analytics in everyday life without even knowing it.
 For eg : Going to a market to buy something .
-<ol>
-  <li> Plan </li>
-  We first decide which things I need before going to market . Is it a shirt , jeans , footwear etc.
-  <li> Prepare </li>
-  Next I need to check how much I am willing to spend and how to get that money.
-  <li> Process </li>
-  Then I need to check how much I want from the data. Like if I am going to buy footwear what do I want - slippers / shoes / sandals etc.
-  <li> Analyze </li>
-  You obviously won't buy things which are out of trend, Also you need to check does the jeans which you have and the color of t-shirt you want to buy, will it make a good combination.
-  <li> Share </li>
-  Now you communicate your idea to the shopkeeper to find the best suitable fit for you.
-  <li> Act </li>
-  Then you finally buy it!
-</ol>
+
+1. ***Plan*** : We first decide which things I need before going to market . Is it a shirt , jeans , footwear etc.
+2. ***Prepare*** : Next I need to check how much I am willing to spend and how to get that money.
+4. ***Process*** : Then I need to check how much I want from the data. Like if I am going to buy footwear what do I want - slippers / shoes / sandals etc.
+5. ***Analyze*** : You obviously won't buy things which are out of trend, Also you need to check does the jeans which you have and the color of t-shirt you want to buy, will it make a good combination.
+6. ***Share*** : Now you communicate your idea to the shopkeeper to find the best suitable fit for you.
+7. ***Act*** : Then you finally buy it!
+
 <hr>
 
 ## Task:
